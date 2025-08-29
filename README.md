@@ -23,10 +23,5 @@ Power BI → Building interactive dashboards (Sales trend, Profit trend, Categor
  - Profit margins vary significantly by region, with the West being most profitable and Central Region having significantly lower margin compared to other regions.
  - End-of-year (Nov–Dec) sees peak sales, showing strong seasonal demand.
 
-## How to Run the Project
-Import the dataset into MySQL
-Run queries from analysis.sql
-Open dashboard.pbix in Power BI
-
 ## Conclusion
 This project combines Excel, SQL queries with Power BI dashboards to clean the sales dataset, analyze it and visualize the findings of the sales and profit trends to provide meaningful insights.
